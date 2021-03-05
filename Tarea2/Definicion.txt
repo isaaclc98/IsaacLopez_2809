@@ -1,0 +1,6 @@
+Diferencia de administración y gestion
+
+La principal diferencia entre ambos conceptos recae en su definicion:
+
+ADMINISTRACION se refiere a utilizar los recursos disponibles para planificar.
+Por otro lado GESTION se refiere a poner en marcha lo que se planificó durante la administración 
