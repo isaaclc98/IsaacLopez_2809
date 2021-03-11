@@ -1,0 +1,3 @@
+Con el archivo .sql que generamos en clase, importarlo a su gestor de base de datos
+Adjuntar capturas de pantalla del procedimiento (sin descripción únicamente captura de pantalla)
+Así mismo una captura con una consulta de la base de datos creada
