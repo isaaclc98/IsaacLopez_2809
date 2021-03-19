@@ -1,0 +1,20 @@
+Definicion de Organizacion y administracion de un centro de computo
+
+La administracion se refiere al proceso de crear, diseñar y mantener en este caso unb centro de computo.
+De aqui es donde se desglosan las distintas tareas administrativas, las cuales son:
+	planeación
+	organización
+	integración de personal
+	dirección
+	control
+
+Para la organicacion se refiere a la creacion de una estructura, para cada uno de nuestros recursos(economico, material, humano, etc.)
+asi como el agrupamiento de las diversas actividades. Su principal objetivo es simplificar las actividades y funciones.
+
+Ejemplo.
+
+Para administrar mi centro de computo de la empresa X habrá que primero planear: espacio,recursos,etc.
+	despues es necesario organizar, para esto será necesario dividir nuestros recursos disponibles y las actividades
+	que se vayan a realizar: Somos una empresa pequeña, asi que para este caso el centro de cómputo se conformará 
+	por un pc/servidor. ya que las "actividades" que se realizaran de momento sólo se limitaran a la administracióm
+	de un sitio web.
